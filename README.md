@@ -1,4 +1,4 @@
-# 💫 About Me
+# Hello World!, I'm Andrea, an Italian tech enthusiast💫
 🛠 I’m currently working on A SECRET<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on Ambitious tech projects mixing AI, mobile, and web. Got a wild idea and need a passionate dev? Hit me up.<br><br>🌱 I’m currently learning How to turn a dev team into a real startup 🚀<br><br>💬 Ask me about Computational neuroscience, quantum computing, and even some wild thoughts on upgrading the human body 🤖<br><br>⚡ Fun fact I competed in RoboCupJunior Rescue Line 🧠🤖 — and also took part in the OIS 💻
 
 ###
