@@ -66,10 +66,6 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dr-Faxzty/Dr-Faxzty/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dr-Faxzty/Dr-Faxzty/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Dr-Faxzty/Dr-Faxzty/output/snake.svg" alt="Snake animation" />
-</picture>
+<img alt="github-snake" src="https://raw.githubusercontent.com/Dr-Faxzty/Dr-Faxzty/output/snake.svg" alt="Snake animation" />
 
 ###
