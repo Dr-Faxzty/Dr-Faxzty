@@ -51,7 +51,7 @@
 ###
 
 <div align="left">
-  <a href="andreatirenti2004@gmail.com" target="_blank">
+  <a href="mailto:andreatirenti2004@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/andrea.tirenti" target="_blank">
